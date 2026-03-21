@@ -128,7 +128,7 @@ export const setProgress = (setLoading: (value: number) => void) => {
           resolve(percent);
           clearInterval(interval);
         }
-      }, 2);
+      }, 20);
     });
   }
   return { loaded, percent, clear };
