@@ -1,7 +1,7 @@
 # Kusal Portfolio
 
 ## 🔗 Live Demo
-(Add link if hosted)
+https://kusal-portfolio-eta.vercel.app
 
 ## 📌 About
 This is my personal portfolio website built using ...
