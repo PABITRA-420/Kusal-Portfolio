@@ -1,16 +1,21 @@
-# My Portfolio Wesbite - Overview 🚀
+# Kusal Portfolio
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+## 🔗 Live Demo
+(Add link if hosted)
 
-## Instructions 🛠️
+## 📌 About
+This is my personal portfolio website built using ...
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+## ⚙️ Tech Stack
+React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+## 🚀 Features
+- Responsive design
+- Projects section
+- Contact form
 
+## 📷 Screenshots
 ![Portfolio-Preview](public/images/preview.png)
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+## 🧑‍💻 Author
+Kusal
